@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 =======
 /bin/
+<<<<<<< HEAD
+>>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
+=======
 >>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
 # Compiled class file
 *.class
@@ -25,10 +28,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 <<<<<<< HEAD
+<<<<<<< HEAD
 hs_err_pid*
 =======
+=======
+>>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
 hs_err_pid*
 
 # Eclipse
 .settings/
+<<<<<<< HEAD
+>>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
+=======
 >>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
