@@ -1,1 +1,34 @@
+<<<<<<< HEAD
+=======
 /bin/
+>>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+<<<<<<< HEAD
+hs_err_pid*
+=======
+hs_err_pid*
+
+# Eclipse
+.settings/
+>>>>>>> 413352a4a12a5298490e5c6cd3641089f3a5ea89
